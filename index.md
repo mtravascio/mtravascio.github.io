@@ -8,8 +8,6 @@
 
 - I’m looking to collaborate on Flutter Projects and some Python Projects
 
-- I’m looking for help with Youtube plugin in Flutter
-
-- Ask me about Network Devices and Architecture, Linux Ubuntu Distro
+- Ask me about Network Devices and Architecture and Linux Ubuntu Distro
 
 - How to reach me: mtravasciocisia(AT)gmail.com
