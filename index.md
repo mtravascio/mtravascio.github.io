@@ -2,7 +2,7 @@
 
 - I'm Network Engineer in love with software development with *C++, Delphi, Python and Flutter & Dart*
 
-- I’m currently working on RegeOMaria app for Android and Apple devices
+- I’m currently working on App for Android and Apple devices
 
 - I’m currently learning Flutter & Dart
 
