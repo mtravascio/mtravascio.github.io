@@ -1,4 +1,4 @@
-# Welcome to my Homepage
+# Welcome to my homepage
 
 - I'm Network Engineer in love with software development with *C++, Delphi, Python and Flutter & Dart*
 
