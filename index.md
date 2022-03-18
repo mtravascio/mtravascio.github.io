@@ -1,14 +1,18 @@
-## Welcome to my homepage
+## Welcome ;-)
+
 ---
+
 - I'm Network Engineer in love with software development with *C++, Delphi, Python and Flutter & Dart*
 - I’m currently working on App for Android and Apple devices
 - I’m currently learning Flutter & Dart
 - I’m looking to collaborate on Flutter Projects and some Python Projects
 - Ask me about Network Devices and Architecture and Linux Ubuntu Distro
 - How to reach me: mtravasciocisia(AT)gmail.com
+
 ---
-## RegeOMaria (beta):
-### Last Version 18/3/2022:
+
+## RegeOMaria App:
+### Last Beta Version 18/3/2022:
 [Download](https://drive.google.com/file/d/1tH3SQNN8e7zyZ51yACP8ucBZtfmBrgkK/view?usp=sharing)
 
 ### Old Version 18/3/2022:
