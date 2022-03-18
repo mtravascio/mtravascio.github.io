@@ -2,12 +2,12 @@
 
 ---
 
-- I'm Network Engineer in love with software development with *C++, Delphi, Python and Flutter & Dart*
-- I’m currently working on App for Android and Apple devices
-- I’m currently learning Flutter & Dart
-- I’m looking to collaborate on Flutter Projects and some Python Projects
-- Ask me about Network Devices and Architecture and Linux Ubuntu Distro
-- How to reach me: mtravasciocisia(AT)gmail.com
+- I'm software development enthusiast in *C++, Delphi, Python and Flutter*
+- I’m currently working on Apps for Android and Apple devices
+- I’m currently learning Flutter & Dart language
+- I’m looking to collaborate on Python and Flutter Projects
+- Ask me about Networks and Linux (Ubuntu) Distro
+- How to reach me: mtravasciocisia@gmail.com
 
 ---
 
