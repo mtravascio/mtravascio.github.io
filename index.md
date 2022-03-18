@@ -13,10 +13,10 @@
 - How to reach me: mtravasciocisia(AT)gmail.com
 
 # App RegeOMaria (beta):
-[Download Last Version](https://drive.google.com/file/d/1KjGTVeYdWrzmFoHpXZk_Nmz7ZD_ig39F/view?usp=sharing)
+[Download Last Version](https://drive.google.com/file/d/1tH3SQNN8e7zyZ51yACP8ucBZtfmBrgkK/view?usp=sharing)
 
 # Old Version:
-(none for now)
+[Download OLD Version](https://drive.google.com/file/d/1KjGTVeYdWrzmFoHpXZk_Nmz7ZD_ig39F/view?usp=sharing)
 
 
 
