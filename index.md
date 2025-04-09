@@ -11,6 +11,8 @@
 
 ---
 
-Download Last [Rege O Maria](https://mtravascio.github.io/mtravascio/) App!
+Visit the NEW [Rege O Maria](https://www.regeomaria.net/) Site & App!
+
+First [Rege O Maria](https://mtravascio.github.io/mtravascio/) App!
 
 ---
