@@ -13,6 +13,6 @@
 
 Visit the NEW [Rege O Maria](https://www.regeomaria.net/) Site & App!
 
-First [Rege O Maria](https://mtravascio.github.io/mtravascio/) App!
+(Old first [Rege O Maria](https://mtravascio.github.io/mtravascio/) App)
 
 ---
