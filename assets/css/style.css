@@ -85,7 +85,7 @@ p{margin:0 0 1.05em}
 
 /* ---------- numeri ---------- */
 .facts{border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin-top:44px}
-.facts .wrap{display:grid;grid-template-columns:repeat(4,1fr);gap:0}
+.facts .wrap{display:grid;grid-template-columns:repeat(3,1fr);gap:0}
 .fact{padding:26px 0 26px 24px;border-left:1px solid var(--line)}
 .fact:first-child{border-left:0;padding-left:0}
 .fact .n{font-family:var(--serif);font-size:2.1rem;line-height:1}
@@ -93,10 +93,10 @@ p{margin:0 0 1.05em}
 
 /* ---------- sezioni ---------- */
 section{padding:92px 0}
-.sec-head{display:flex;align-items:baseline;gap:18px;margin-bottom:14px}
-.sec-head .num{order:1}
-.sec-head h2{order:2}
-.sec-head .rule{order:3;flex:1;margin-left:10px;position:relative;top:-.5em}
+.sec-head{display:grid;grid-template-columns:auto 1fr;align-items:center;column-gap:14px;margin-bottom:10px}
+.sec-head .num{grid-column:1;grid-row:1}
+.sec-head .rule{grid-column:2;grid-row:1;height:1px;background:var(--line)}
+.sec-head h2{grid-column:1/-1;grid-row:2;margin-top:8px}
 .sec-head .num{font-family:var(--mono);font-size:.74rem;color:var(--terra);letter-spacing:.16em}
 .sec-head .rule{flex:1;height:1px;background:var(--line)}
 h2{font-size:clamp(2rem,3.6vw,2.9rem);line-height:1.06}
@@ -138,19 +138,6 @@ h2{font-size:clamp(2rem,3.6vw,2.9rem);line-height:1.06}
 .allbooks{margin-top:34px;font-size:.9rem}
 .allbooks a{border-bottom:1px solid var(--terra);color:var(--terra);padding-bottom:2px}
 
-/* ---------- fascia ebook ---------- */
-.band{background:var(--ink);color:#F2EBDD;padding:86px 0}
-.band .mono{color:#C89B7E}
-.band h2{color:#FFF9EF;margin:10px 0 18px}
-.band .big{font-family:var(--serif);font-size:clamp(4rem,9vw,7rem);line-height:.9;color:#FFF9EF;letter-spacing:-.02em}
-.band .grid{display:grid;grid-template-columns:1fr 1fr;gap:60px;align-items:center}
-.band p{color:#D9CFC0;font-size:1.02rem;max-width:48ch}
-.band p b{color:#FFF9EF;font-weight:600}
-.mosaic{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
-.mosaic img{box-shadow:0 14px 30px -16px rgba(0,0,0,.7);transition:transform .35s ease}
-.mosaic img:hover{transform:translateY(-4px) scale(1.02)}
-.band .cta{margin-top:26px;font-size:.9rem;color:#C89B7E}
-
 /* ---------- siti ---------- */
 .sites{display:grid;grid-template-columns:1fr 1fr;gap:0 56px}
 .site{
@@ -191,7 +178,6 @@ footer .wrap{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
   .fact:nth-child(n+3){border-top:1px solid var(--line)}
   .apps{grid-template-columns:1fr}
   .books{grid-template-columns:repeat(3,1fr)}
-  .band .grid{grid-template-columns:1fr;gap:38px}
   .sites{grid-template-columns:1fr;gap:0}
   .contact .wrap{grid-template-columns:1fr;gap:28px}
   section{padding:64px 0}
@@ -204,6 +190,5 @@ footer .wrap{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
   .nav a:not(.ext){display:none}
   .books{grid-template-columns:1fr 1fr}
   .sec-head{gap:12px}
-  .mosaic{grid-template-columns:repeat(3,1fr);gap:8px}
   .hero h1{font-size:clamp(2.6rem,11vw,3.4rem)}
 }

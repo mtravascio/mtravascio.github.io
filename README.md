@@ -10,7 +10,6 @@ senza cookie né font di terze parti oltre a Google Fonts.
 index.html              tutta la pagina
 assets/css/style.css    un solo foglio di stile
 assets/img/libri/       le copertine dei 18 libri (440 px di larghezza)
-assets/img/ebook/       sei copertine dei manuali tradotti (300 px)
 .nojekyll               dice a GitHub di servire i file così come sono, senza Jekyll
 ```
 
@@ -43,18 +42,16 @@ si trova la parte da cambiare cercando il titolo della sezione.
 |---|---|
 | App (3) | sezione `01 · App` — link a Google Play e App Store |
 | Libri (18) | sezione `02 · Libri`, tre gruppi: *Salva la tua anima*, *Equilibrio e Spirito*, *Open Edition* |
-| Manuali tradotti (139) | sezione `03 · Traduzioni` |
-| Siti (6) | sezione `04 · Siti` |
-| Progetti open source | sezione `05 · Codice` |
-| Contatti | sezione `06 · Contatti` |
+| Siti (6) | sezione `03 · Siti` |
+| Progetti open source | sezione `04 · Codice` |
+| Contatti | sezione `05 · Contatti` |
 
 I link ai libri sono le schede Kindle su Amazon (`amazon.it/dp/ASIN`); la pagina
 autore è `amazon.it/Massimo-Travascio/e/B0GCXYGBWJ`.
 
 ## Numeri da tenere aggiornati
 
-Nella copertina ci sono quattro numeri: **18** libri, **3** app, **139** manuali,
-**5** siti. Quando cambiano vanno corretti a mano in `index.html` (cerca `class="fact"`).
+Nella copertina ci sono tre numeri: **18** libri, **3** app, **6** siti. Quando cambiano vanno corretti a mano in `index.html` (cerca `class="fact"`).
 
 ## Note
 
