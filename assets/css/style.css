@@ -40,9 +40,9 @@ p{margin:0 0 1.05em}
 }
 .topbar .wrap{display:flex;align-items:center;justify-content:space-between;height:64px;gap:20px}
 .brand{display:flex;align-items:center;gap:12px;font-family:var(--serif);font-size:1.18rem}
-.brand .mark{
-  width:32px;height:32px;border-radius:50%;background:var(--ink);color:var(--paper);
-  display:grid;place-items:center;font-family:var(--serif);font-size:.86rem;letter-spacing:.02em
+.brand img.mark{
+  width:36px;height:36px;border-radius:50%;object-fit:cover;object-position:50% 30%;
+  border:1px solid var(--line);box-shadow:0 1px 4px rgba(26,24,21,.18);flex:none
 }
 .nav{display:flex;gap:26px;align-items:center}
 .nav a{font-size:.88rem;color:var(--ink-soft);position:relative;padding:4px 0}
