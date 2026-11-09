@@ -10,6 +10,7 @@ senza cookie né font di terze parti oltre a Google Fonts.
 index.html              tutta la pagina
 assets/css/style.css    un solo foglio di stile
 assets/img/libri/       le copertine dei 18 libri (440 px di larghezza)
+assets/img/avatar.jpg   la foto profilo (144 px), usata anche come icona della scheda
 .nojekyll               dice a GitHub di servire i file così come sono, senza Jekyll
 ```
 
